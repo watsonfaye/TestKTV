@@ -1,0 +1,10 @@
+D:\MyKTV\WindowsFormsApp5\Test\bin\Debug\Test.exe.config
+D:\MyKTV\WindowsFormsApp5\Test\bin\Debug\Test.exe
+D:\MyKTV\WindowsFormsApp5\Test\bin\Debug\Test.pdb
+D:\MyKTV\WindowsFormsApp5\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\MyKTV\WindowsFormsApp5\Test\obj\Debug\Test.Form1.resources
+D:\MyKTV\WindowsFormsApp5\Test\obj\Debug\Test.MyItem.resources
+D:\MyKTV\WindowsFormsApp5\Test\obj\Debug\Test.Properties.Resources.resources
+D:\MyKTV\WindowsFormsApp5\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\MyKTV\WindowsFormsApp5\Test\obj\Debug\Test.exe
+D:\MyKTV\WindowsFormsApp5\Test\obj\Debug\Test.pdb

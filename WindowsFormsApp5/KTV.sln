@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "点歌客户端系统", "WindowsFormsApp5\点歌客户端系统.csproj", "{4DBA292F-27B4-44EF-B155-36C5BAE040FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "点歌后台管理系统", "点歌后台管理系统\点歌后台管理系统.csproj", "{FDE436CE-96EF-4972-802D-50C3E01410B1}"
+EndProject
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{CBE9DDF4-E698-4DA2-9B24-3B50C9F224EA}"
+EndProject
+=======
+>>>>>>> fb81549ed7946a0708831400a592b2aa4f7ba457
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBA292F-27B4-44EF-B155-36C5BAE040FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBA292F-27B4-44EF-B155-36C5BAE040FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBA292F-27B4-44EF-B155-36C5BAE040FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBA292F-27B4-44EF-B155-36C5BAE040FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE436CE-96EF-4972-802D-50C3E01410B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE436CE-96EF-4972-802D-50C3E01410B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE436CE-96EF-4972-802D-50C3E01410B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE436CE-96EF-4972-802D-50C3E01410B1}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+		{CBE9DDF4-E698-4DA2-9B24-3B50C9F224EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE9DDF4-E698-4DA2-9B24-3B50C9F224EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE9DDF4-E698-4DA2-9B24-3B50C9F224EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE9DDF4-E698-4DA2-9B24-3B50C9F224EA}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> fb81549ed7946a0708831400a592b2aa4f7ba457
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE971C76-8C29-43E3-8BA9-08901D130880}
+	EndGlobalSection
+EndGlobal

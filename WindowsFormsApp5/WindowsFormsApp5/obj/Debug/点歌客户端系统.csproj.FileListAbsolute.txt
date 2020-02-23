@@ -1,0 +1,36 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\点歌客户端系统.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Main.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\点歌客户端系统.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UISingerChoose.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UIAreaChoose.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UISexChoose.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UISongChoose.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.SongItem.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\点歌客户端系统.csprojAssemblyReference.cache
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Main.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.SongItem.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UISexChoose.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UIAreaChoose.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UISingerChoose.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UISongChoose.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\点歌客户端系统.csproj.GenerateResource.cache
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+<<<<<<< HEAD
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MyItem.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.PinyinRequestSong.resources
+=======
+>>>>>>> fb81549ed7946a0708831400a592b2aa4f7ba457
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UIPinyinChoose.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.SongTypeChoose.resources
+D:\MyKTV\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UITypeChoose.resources
