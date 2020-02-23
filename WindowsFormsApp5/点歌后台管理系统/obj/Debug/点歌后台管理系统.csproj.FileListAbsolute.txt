@@ -37,3 +37,21 @@ D:\MyKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理�
 D:\MyKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.pdb
 =======
 >>>>>>> fb81549ed7946a0708831400a592b2aa4f7ba457
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\bin\Debug\点歌后台管理系统.exe.config
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\bin\Debug\点歌后台管理系统.exe
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\bin\Debug\点歌后台管理系统.pdb
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\bin\Debug\Interop.WMPLib.dll
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\bin\Debug\AxInterop.WMPLib.dll
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.csprojAssemblyReference.cache
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\Interop.WMPLib.dll
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\AxInterop.WMPLib.dll
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.csproj.ResolveComReference.cache
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.Form1.resources
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.FormLogin.resources
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.FormResourcePath.resources
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.FormSinger.resources
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.FormSong.resources
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.Properties.Resources.resources
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.csproj.GenerateResource.cache
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.exe
+D:\myTest\TestKTV\WindowsFormsApp5\点歌后台管理系统\obj\Debug\点歌后台管理系统.pdb

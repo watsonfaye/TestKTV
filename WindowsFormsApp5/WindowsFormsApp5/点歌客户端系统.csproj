@@ -50,7 +50,6 @@
     <Compile Include="DBHelper.cs" />
     <Compile Include="FindSinger.cs" />
     <Compile Include="FindSong.cs" />
-    <Compile Include="FindType.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,12 +61,6 @@
     </Compile>
     <Compile Include="MyItem.Designer.cs">
       <DependentUpon>MyItem.cs</DependentUpon>
-    </Compile>
-    <Compile Include="SongTypeChoose.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="SongTypeChoose.Designer.cs">
-      <DependentUpon>SongTypeChoose.cs</DependentUpon>
     </Compile>
     <Compile Include="UIPinyinChoose.cs">
       <SubType>UserControl</SubType>
@@ -122,9 +115,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MyItem.resx">
       <DependentUpon>MyItem.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="SongTypeChoose.resx">
-      <DependentUpon>SongTypeChoose.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UIPinyinChoose.resx">
       <DependentUpon>UIPinyinChoose.cs</DependentUpon>

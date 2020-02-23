@@ -28,25 +28,26 @@ namespace WindowsFormsApp5
             switch (lb.Text)
             {
                 case "热门流行":
-                    FindType.Songtype = "热门流行";
+                    FindSong.SongtypeID = 1;
                     break;
                 case "金典老歌":
-                    FindType.Songtype = "金典老歌";
+                    FindSong.SongtypeID = 2;
                     break;
                 case "影视金曲":
-                    FindType.Songtype = "影视金曲";
+                    FindSong.SongtypeID = 3;
                     break;
                 case "游戏动漫":
-                    FindType.Songtype = "游戏动漫";
+                    FindSong.SongtypeID = 4;
                     break;
                 case "戏曲":
-                    FindType.Songtype = "戏曲";
+                    FindSong.SongtypeID = 5;
                     break;
                 case "儿歌":
-                    FindType.Songtype = "儿歌";
+                    FindSong.SongtypeID = 6;
                     break;
             }
-            UIControl.inst.ShowUI(UIType.SongTypeChoose);
+            FindSong.findType = 1;
+            UIControl.inst.ShowUI(UIType.SongChoose);
         }
 
         private void UITypeChoose_Load(object sender, EventArgs e)

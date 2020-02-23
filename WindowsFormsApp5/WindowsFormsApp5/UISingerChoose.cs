@@ -74,6 +74,8 @@ namespace WindowsFormsApp5
             PictureBox fp = (PictureBox)sender;
             MyItem item = (MyItem)fp.Parent;
             FindSong.singerID = item.id;
+
+            FindSong.findType = 0;
             UIControl.inst.ShowUI(UIType.SongChoose);
         }
 

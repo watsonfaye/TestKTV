@@ -10,13 +10,22 @@ namespace WindowsFormsApp5
     //查找歌曲
     public class FindSong
     {
-        public static int singerID;
-
+        public static int SongtypeID; //歌曲类型ID
+        public static int singerID;  //歌手ID
+        public static int findType;  //0就是按歌手找，1就是按类型找 2 字数找
         internal static Song[] GetSongs()
         {
-            int count = DB.GetCount($"select count(*) from song_info where singer_id={singerID}");
+            string sqlCondition="";
+            switch (findType)
+            {
+                case 0: sqlCondition = $"singer_id={singerID}"; break;
+                case 1: sqlCondition = $"songtype_id={SongtypeID}"; break;
+                case 2: sqlCondition = "";break;
+
+            }
+            int count = DB.GetCount($"select count(*) from song_info where {sqlCondition}");
             Song[] arr = new Song[count];
-            string sql = $"select * from song_info where singer_id={singerID}";
+            string sql = $"select * from song_info where {sqlCondition}";
             SqlCommand cmd = new SqlCommand(sql, DBHelper.inst.Conn);
             DBHelper.inst.Open();
             SqlDataReader dr = cmd.ExecuteReader();
