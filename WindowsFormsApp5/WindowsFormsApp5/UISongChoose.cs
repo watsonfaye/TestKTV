@@ -32,6 +32,7 @@ namespace WindowsFormsApp5
         }
         public void RefreshData()
         {
+            pageIndex = 0;
             ShowSongList();
         }
         private void UISongChoose_Load(object sender, EventArgs e)
@@ -43,6 +44,7 @@ namespace WindowsFormsApp5
         {
             songs = FindSong.GetSongs();
             maxPage = songs.Length / pageCount;
+            if (songs.Length % pageCount == 0) maxPage -= 1;
             ShowData();
         }
 

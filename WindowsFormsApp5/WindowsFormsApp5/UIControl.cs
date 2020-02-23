@@ -87,9 +87,6 @@ namespace WindowsFormsApp5
             }else if (currentUI is UITypeChoose)
             {
                 ((UITypeChoose)currentUI).RefreshData();
-            }else if (currentUI is SongTypeChoose)
-            {
-                ((SongTypeChoose)currentUI).RefreshData();
             }
         }
 
@@ -99,7 +96,6 @@ namespace WindowsFormsApp5
         private UISongChoose uISongChoose;
         private UIPinyinChoose uiPinyinChoose;
         private UITypeChoose uITypeChoose;
-        private SongTypeChoose songTypeChoose;
         public UserControl GetUIByType(UIType type)
         {
             switch (type)
@@ -111,7 +107,6 @@ namespace WindowsFormsApp5
                 case UIType.SongChoose:return uISongChoose==null? uISongChoose=new UISongChoose(): uISongChoose;
                 case UIType.Pinyin:return uiPinyinChoose == null ? uiPinyinChoose = new UIPinyinChoose() : uiPinyinChoose;
                 case UIType.SongType:return uITypeChoose == null ? uITypeChoose = new UITypeChoose() : uITypeChoose;
-                case UIType.SongTypeChoose:return songTypeChoose == null ? songTypeChoose = new SongTypeChoose() : songTypeChoose;
             }
             return null;
         }
